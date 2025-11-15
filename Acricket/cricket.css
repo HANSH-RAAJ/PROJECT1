@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  background-color: #c851b2;
+}
+
+.choice-button {
+  height: 150px;
+  width: 150px;
+  border: none;
+  margin: 10px;
+  background-color: white;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.Reset {
+  background-color: red;
+  color: aliceblue;
+  height: 40px;
+  width: 80;
+  border-radius: none;
+}
+.Reset:hover{
+ background-color: green;
+}
+
+.choice-image {
+  height: 100px;
+}
